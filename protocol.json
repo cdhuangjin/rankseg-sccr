@@ -1,0 +1,20 @@
+{
+  "confirmation_range": [
+    100,
+    180
+  ],
+  "seed": 20261023,
+  "threads": 2,
+  "pruning_probability": 0.1,
+  "passes": 1,
+  "order": "row_major",
+  "move_tolerance": 1e-12,
+  "bootstrap_replicates": 5000,
+  "union_dice_margin_pp": 1.0,
+  "methods": [
+    "argmax",
+    "dice_rma",
+    "coordinate_all",
+    "coordinate_pruned"
+  ]
+}

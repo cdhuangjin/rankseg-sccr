@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this research software and the original RankSEG-RMA paper."
+title: "SCCR: Support-Constrained Coordinate Refinement of RankSEG-RMA"
+type: software
+repository-code: "https://github.com/cdhuangjin/rankseg-sccr"
+license: MIT
+authors:
+  - family-names: Huang
+    given-names: Jin
+    orcid: "https://orcid.org/0009-0005-7489-2018"
+  - family-names: Gao
+    given-names: Qisen
+    orcid: "https://orcid.org/0009-0002-6721-1278"
+version: "0.1.0"
+date-released: "2026-10-26"

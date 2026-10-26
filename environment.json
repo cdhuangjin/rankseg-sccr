@@ -1,0 +1,16 @@
+{
+  "provider": "local-existing-runtime",
+  "python": "3.12.10",
+  "packages": {
+    "torch": "2.13.0+cu130",
+    "torchvision": "0.28.0+cu130",
+    "numpy": "2.4.4",
+    "pillow": "12.2.0"
+  },
+  "installs": [],
+  "device": "cpu",
+  "threads": 2,
+  "dtype": "float32",
+  "checkpoint": "lraspp_mobilenet_v3_large-d234d4ea.pth",
+  "note": "Original experiment versions. Use a compatible official PyTorch wheel index for your platform; CPU inference only."
+}

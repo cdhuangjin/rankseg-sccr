@@ -1,0 +1,3 @@
+# Provenance and rights
+
+The SCCR implementation and metric helpers are extracted from this study's frozen experiment; the extraction preserves function bodies. The runner changes only file locations and output plumbing. The original RankSEG-RMA decoder is **not bundled**: obtain its pinned source separately from the upstream repository and comply with its license. UPSTREAM.json records the repository, commit, filename and SHA-256. This repository includes numerical summaries and confusion matrices, not VOC photographs, masks or pretrained weights. Those inputs remain subject to their providers' terms. The study's code is distributed under the MIT license selected by the repository owner (see LICENSE). No license for third-party material is implied.

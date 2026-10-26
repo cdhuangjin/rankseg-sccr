@@ -1,0 +1,8 @@
+{
+  "commit": "205c71c3c5ff1cfd71fe2173c34bcb0211a0792d",
+  "repository": "https://github.com/ZixunWang/RankSEG-RMA",
+  "sha256": "53ED7A0C5104D138D11566CBFB551DFC115A8575EC557AEA01DE2785998760B9",
+  "file": "exp/rankseg_rma.py",
+  "purpose": "External official decoder dependency; not bundled or relicensed.",
+  "date": "2026-10-22"
+}

@@ -1,0 +1,8 @@
+{
+  "archive_sha256": "e14f763270cf193d0b5f74b169f44157a4b0c6efa708f4dd0ff78ee691763bcb",
+  "archive_size": 1999639040,
+  "split_sha256": "cdc1326d12f69ce5153aa5da04a4d8783e146868d42d19f82f44e74b97ac907d",
+  "weights_sha256": "d234d4eae9d55d5f76de18b77cf0dc62c66fe5c5482758209d00f950c92bb280",
+  "weights_url": "https://download.pytorch.org/models/lraspp_mobilenet_v3_large-d234d4ea.pth",
+  "official_code_sha256": "53ed7a0c5104d138d11566cbfb551dfc115a8575ec557aea01de2785998760b9"
+}

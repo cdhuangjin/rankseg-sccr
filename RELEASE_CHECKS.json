@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "checks": {
+    "solver_function_AST_matches_frozen_experiment": true,
+    "metric_function_AST_matches_frozen_experiment": true,
+    "all_python_sources_compile": true,
+    "exact_gain_math_cases": 40,
+    "support_and_objective_checks": true,
+    "independent_confusion_matrices": 320,
+    "paired_bootstrap_replicates": 5000,
+    "table_and_interval_recomputation": "PASS",
+    "runner_cli_help": "PASS"
+  },
+  "full_model_inference_rerun_in_release": false,
+  "public_repository_url": "https://github.com/cdhuangjin/rankseg-sccr",
+  "scope": "Local checks before publication; remote commit verification is recorded separately."
+}
